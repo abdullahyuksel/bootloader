@@ -1,0 +1,4 @@
+../Core/Src/boot/bootloader.c:15:6:bootloader_uart_data_read	0	static
+../Core/Src/boot/bootloader.c:19:6:bootloader_jump_to_user_app	24	static,ignoring_inline_asm
+../Core/Src/boot/bootloader.c:45:9:execute_memory_write	24	static
+../Core/Src/boot/bootloader.c:61:9:execute_flash_erase	40	static
